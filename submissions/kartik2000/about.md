@@ -7,4 +7,3 @@ Email: [guettakartik@gmail.com](mailto:guettakartik@gmail.com).
 Github: [kartik2000](https://github.com/kartik2000).
 # Emoji
 My favorite emoji is :smile:.
-
