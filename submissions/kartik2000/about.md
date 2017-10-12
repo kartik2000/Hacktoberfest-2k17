@@ -1,9 +1,6 @@
 # About Me
 My name is Kartik. I am a CSE student at Panjab University, India.
-
-# Interests
-gaming,playing Football.
-
+# Interestsgaming,playing Football.
 # Contact Info
 Email: [guettakartik@gmail.com](mailto:guettakartik@gmail.com)
 
