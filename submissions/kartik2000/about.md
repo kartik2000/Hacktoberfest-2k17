@@ -6,4 +6,4 @@ Gaming, coding.
 E-mail: [guettakartik@gmail.com](mailto:guettakartik@gmail.com)  
 Github: [kartik2000](https://github.com/kartik2000)
 # Emoji
-My favourite emoji is :+1:. 
+My favourite emoji is :+1:.
